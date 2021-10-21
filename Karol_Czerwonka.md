@@ -1,7 +1,7 @@
 
 # __KAROL CZERWONKA__
 ----------
-_Data urodzenia_: __.. .. ....__
+_Data urodzenia_: zmiana na gicie
 
 _Miejscowość_: __Lublin__
 
